@@ -6,6 +6,10 @@ Welcome to the Pong-Game project! This is a simple and classic mini game built u
 
 The gameplay of Pong-Game is straightforward:
 
+## Demo
+
+Check out the live demo of the Pong-Game: [Pong-Game Demo](https://preeminent-alpaca-71799e.netlify.app/)
+
 1. **Objective**: Move the paddle using your mouse to catch the moving ball and prevent it from escaping the screen.
 2. **Controls**: Control the paddle's movement by moving your mouse left and right.
 3. **Winning**: The game doesn't have specific levels or rounds. Your aim is to keep the ball within the screen boundaries as long as possible.
